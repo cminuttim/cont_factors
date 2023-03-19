@@ -47,7 +47,7 @@ car==3.1-1
 ## Cita
 
 Por favor, cite el repositorio si utiliza los datos o el código de este repositorio.
-```
+```bibtex
 @misc{cont_factors,
   author = {Carlos Minutti},
   title = {Desarrollo de factores de contaminantes atmosféricos para el análisis de datos de salud en la Ciudad de México},

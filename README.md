@@ -44,15 +44,16 @@ car==3.1-1
 [pesos_cont.pdf](pesos_cont.pdf): Ponderaciones obtenidas para los distintos contaminantes atmosféricos para la generación de los tres factores de contaminantes.
 
 
-## Citar
+## Cita
 
-```bibtex
-@software{cont_factors,
-  title = {{Desarrollo de factores de contaminantes atmosféricos para el análisis de datos de salud en la Ciudad de México}},
+Por favor, cite el repositorio si utiliza los datos o el código de este repositorio.
+```
+@misc{cont_factors,
   author = {Carlos Minutti},
-  url = {https://github.com/cminuttim/cont_factors/},
-  month = {3},
+  title = {Desarrollo de factores de contaminantes atmosféricos para el análisis de datos de salud en la Ciudad de México},
   year = {2023},
-  version = {0.1},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/cminuttim/cont_factors}},
 }
 ```

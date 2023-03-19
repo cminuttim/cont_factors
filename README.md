@@ -42,3 +42,17 @@ car==3.1-1
 [inegi_loc.csv](inegi_loc.csv): Datos del Censo de Población y Vivienda 2020, INEGI.
 
 [pesos_cont.pdf](pesos_cont.pdf): Ponderaciones obtenidas para los distintos contaminantes atmosféricos para la generación de los tres factores de contaminantes.
+
+
+## Citar
+
+```bibtex
+@software{cont_factors,
+  title = {{Desarrollo de factores de contaminantes atmosféricos para el análisis de datos de salud en la Ciudad de México}},
+  author = {Carlos Minutti},
+  url = {https://github.com/cminuttim/cont_factors/},
+  month = {3},
+  year = {2023},
+  version = {0.1},
+}
+```
